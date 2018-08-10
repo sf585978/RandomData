@@ -11,3 +11,6 @@ This is a repository of random data files that I find to be personally interesti
 
 ### Masculinity Survey
 1. [538 Masculinity Survey - 8/9/2018](https://github.com/fivethirtyeight/data/tree/master/masculinity-survey)
+
+### Senators Twitter Ratios
+1. [538 Collection of Senators Tweets - 8/9/2018](https://github.com/fivethirtyeight/data/tree/master/twitter-ratio)
